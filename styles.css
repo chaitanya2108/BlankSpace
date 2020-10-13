@@ -11,7 +11,7 @@ body {
 .navbar{
   background-color: black;
   font-family: "Monserrat";
-  padding: 0 0 4.5rem;
+  padding: 20px;
 }
 
 .navbar-brand {
