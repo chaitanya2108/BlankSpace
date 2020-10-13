@@ -93,3 +93,13 @@ body {
     margin-top: 7rem;
   }
 }
+
+.project-h1 {
+  text-align: center;
+}
+
+/*footer icons*/
+
+.footer-icon {
+  padding: 20px 10px;
+}
