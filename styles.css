@@ -3,11 +3,16 @@
 /* Padding below the footer and lighter body text */
 
 body {
-  padding-top: 3rem;
   padding-bottom: 3rem;
   color: #5a5a5a;
 }
 
+/* Navbar */
+.navbar{
+  background-color: black;
+  font-family: "Monserrat";
+  padding: 20px;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
