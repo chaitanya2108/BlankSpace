@@ -11,12 +11,13 @@ body {
 .navbar{
   background-color: black;
   font-family: "Monserrat";
+  padding: .5rem 1rem;
 }
 
 .navbar-brand {
   font-family: "Monserrat";
   font-size: 2.5rem;
-  font-weight: bold;
+  font-weight: 400;
 }
 
 .nav-item {
